@@ -2,3 +2,4 @@ Test
 - Create Test Case
 - Testing Apps and Dashboard
 - Report issue and bugs
+- Final testing (UAT)
